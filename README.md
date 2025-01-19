@@ -26,4 +26,4 @@ npx @slicemachine/init@latest --repository suburbia-course
 
 open prismic server.
 you must login prismic.
-Open [http://localhost:3000](http://localhost:9999) with your browser to see the result.
+Open [http://localhost:9999](http://localhost:9999) with your browser to see the result.
